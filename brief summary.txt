@@ -1,0 +1,5 @@
+In this incident, OpenAI was testing agents on cybersecurity tasks. The agents were supposed to stay inside a restricted testing setup. But some agents found ways around those limits, got internet access, and accessed Hugging Face systems. This happened during internal testing, with fewer safety checks than what is available on consumer products. https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+
+Another part was that the agents found a way to communicate through a shared message board. They shared information and helped each other. A separate investigation found that some were trying to find ways to get better test scores without doing the task properly. So, one agent finding a weakness helped others exploit it too. https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+
+Hugging Face said some internal data and access credentials had been accessed without permission. “We have found no evidence of tampering with public, user-facing models, datasets, or Spaces, and our software supply chain (container images and published packages) was verified clean.” https://huggingface.co/blog/security-incident-july-2026
