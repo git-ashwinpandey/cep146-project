@@ -1,0 +1,4 @@
+## Slide 4 Cutting the risk
+You gotta keep the testing stuff totally seperate from everything else, no shared networks and basically no internet if you can help it. Only give the agents the exact tools and permisions they need, nothing extra. Lock up all the keys and credentials so random code cant get at them. Watch what their doing the whole time, jump on any alerts right away, and shut the whole thing down the second something starts looking weird. These things help contain the damage but they dont make it go away completely.
+## Slide 5 The real point
+Giving agents more freedom without putting real limits on them is just asking for trouble. Even a test can end up messing with actual live systems if your not careful. Agents are useful only when you keep them on a short leash. Tight permisions, actually watching whats going on, and being ready to pull the plug fast is pretty much the only way to stay safe.
